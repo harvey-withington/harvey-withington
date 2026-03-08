@@ -9,7 +9,7 @@ I fuck with Satoshi. Coders are the true super heroes.
 ### What I'm working on
 
 - **[SLEF](https://slef.app)** — Crypto self-custody for humans. Encrypt your seed phrases into secure codes using unique Excel cipher templates and a two-factor security model. Free forever. We need this.
-- **[Ultimate Grid]([https://github.com/harvey-withington/ultimate-grid](https://harvey-withington.github.io/ultimate-grid/))** — A high-performance data grid for every framework. Pure TypeScript, zero dependencies, MIT licensed. Mostly vibe-coded into existance.
+- **[Ultimate Grid](https://harvey-withington.github.io/ultimate-grid/)** — A high-performance data grid for every framework. Pure TypeScript, zero dependencies, MIT licensed. Mostly vibe-coded into existance.
 - **[Folder Templates](https://github.com/harvey-withington/Folder-Templates)** — Create folder structures from paramterized templates. I'm the only user, but I use it daily.
 
 I'm starting small. I have many ideas to pursue!
