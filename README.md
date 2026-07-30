@@ -8,7 +8,7 @@ I fuck with Satoshi. Coders are the true super heroes.
 
 ### What I'm working on
 
-- **[BRUV](https://slef.app)** — AI-native, local-first Kanban productivity app with AI Chat, Agentic cards and MCP support. Cards that actually DO the work for you.
+- **[BRUV](https://bruv-ai.app)** — AI-native, local-first Kanban productivity app with AI Chat, Agentic cards and MCP support. Cards that actually DO the work for you.
 - **[SLEF](https://slef.app)** — Crypto self-custody for humans. Encrypt your seed phrases into secure codes using unique Excel cipher templates and a two-factor security model. Free forever. We need this.
 - **[Ultimate Grid](https://harvey-withington.github.io/ultimate-grid/)** — A high-performance data grid for every framework. Pure TypeScript, zero dependencies, MIT licensed. Mostly vibe-coded into existance.
 - **[Folder Templates](https://github.com/harvey-withington/Folder-Templates)** — Create folder structures from paramterized templates. I'm the only user, but I use it daily.
